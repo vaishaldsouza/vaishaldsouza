@@ -123,21 +123,7 @@ I thrive on transforming complex challenges into elegant solutions through clean
 
 <div align="center">
 
-## 📊 GitHub Stats
-
-</div>
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=vaishaldsouza" alt="GitHub Stats"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🔥 GitHub Streak
+##  GitHub Streak
 
 </div>
 
@@ -151,21 +137,7 @@ I thrive on transforming complex challenges into elegant solutions through clean
 
 <div align="center">
 
-## 💻 Top Languages
-
-</div>
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishaldsouza" alt="Top Languages"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 📈 Contribution Activity
+##  Contribution Activity
 
 </div>
 
