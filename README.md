@@ -129,7 +129,7 @@ I thrive on transforming complex challenges into elegant solutions through clean
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=vaishaldsouza&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=9F7AEA&text_color=C8D8E4&icon_color=9F7AEA&card_width=500" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vaishaldsouza&show_icons=true&theme=radical" alt="GitHub Stats"/>
 
 </div>
 
@@ -157,7 +157,7 @@ I thrive on transforming complex challenges into elegant solutions through clean
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishaldsouza&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=9F7AEA&text_color=C8D8E4&card_width=500" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishaldsouza&layout=compact&theme=radical" alt="Top Languages"/>
 
 </div>
 
