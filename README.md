@@ -1,66 +1,227 @@
-# Hi 👋 I'm Vaishal Dsouza
-
-🎓 Computer Science Engineering Student (2023–2027)  
-💻 Aspiring Software Engineer | 🤖 AI Enthusiast  
-📍 Mangaluru, Karnataka, India  
+<div align="center">
+  
+  <!-- Capsule Render Wave Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vaishal+Dsouza&fontSize=50&fontColor=fff&animation=twinkle&fontAlignY=35" alt="header"/>
+  
+  <!-- Typing SVG Animation -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=9F7AEA&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+AI+Enthusiast;Full+Stack+Developer+%7C+Problem+Solver;Building+Scalable+Solutions" alt="Typing SVG"/>
+  </a>
+  
+  <!-- Academic Badge -->
+  <img src="https://img.shields.io/badge/B.E._CSE-2023--2027-9F7AEA?style=flat-square&logo=education&logoColor=white" alt="Education"/>
+  
+  <!-- Location Badge -->
+  <img src="https://img.shields.io/badge/Location-Mangaluru%2C+India-6B46C1?style=flat-square&logo=google-maps&logoColor=white" alt="Location"/>
+  
+  <!-- Social Buttons -->
+  <a href="https://github.com/vaishaldsouza" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-View-9F7AEA?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://linkedin.com/in/vaishal-d-souza-12b34a298" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:vaishaldsouza@email.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/vaishaldsouza" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  
+  <!-- Stats Badges -->
+  <img src="https://komarev.com/ghpvc/?username=vaishaldsouza&color=9F7AEA&style=flat-square" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/vaishaldsouza?color=9F7AEA&style=flat-square" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/vaishaldsouza?color=9F7AEA&style=flat-square" alt="Stars"/>
+  
+</div>
 
 ---
 
-## 🚀 About Me
+<div align="center">
 
-- 🧠 Strong foundation in Data Structures, Algorithms & Systems  
-- ⚙️ Interested in Backend Development, AI/ML & Scalable Systems   
-- 🚀 Goal: Contribute to impactful technology at scale  
+## 👨‍💻 About Me
+
+</div>
+
+Third-year Computer Science Engineering student with a strong foundation in software engineering, algorithms, and systems. Passionate about building scalable full-stack applications and exploring the intersection of AI/ML with real-world problem-solving. 
+
+I thrive on transforming complex challenges into elegant solutions through clean code and architectural thinking. Currently focused on backend development, cloud computing, and applied AI to create impactful technology at scale.
+
+<div align="center">
+
+### 🔥 Open To
+
+- Software Development Roles
+- AI/ML Engineering Positions
+- Full Stack Development Opportunities
+- Open Source Collaboration
+
+</div>
 
 ---
+
+<div align="center">
 
 ## 🛠 Tech Stack
 
-### 💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+</div>
 
----
+### 💻 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+### ⚙️ Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### ☁️ Cloud, DevOps & Tooling
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 
 ---
 
-### ⚙️ Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<div align="center">
+
+## 🤖 AI / ML Expertise
+
+</div>
+
+| Domain | Proficiency | Details |
+|--------|-------------|---------|
+| Generative AI | Intermediate | Google Cloud Vertex AI, Gemini API |
+| Machine Learning | Beginner | IBM SkillsBuild AI Fundamentals |
+| Data Analytics | Beginner | R Programming, Data Fundamentals |
+| Agentic AI | Beginner | RAG Systems, 1M1B Internship |
 
 ---
 
-### 🛠 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<div align="center">
+
+##  Coding Profiles
+
+</div>
+
+<a href="https://leetcode.com/vaishaldsouza" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+</a>
+<a href="https://geeksforgeeks.org/vaishaldsouza" target="_blank">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+</a>
+<a href="https://hackerrank.com/vaishaldsouza" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+</a>
+<a href="https://codechef.com/vaishaldsouza" target="_blank">
+  <img src="https://img.shields.io/badge/CodeChef-5B4636?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+</a>
 
 ---
 
-![GitHub Streak](https://streak-stats.demolab.com?user=vaishaldsouza&theme=tokyonight)
+<div align="center">
+
+## 📊 GitHub Analytics
+
+</div>
+
+<div align="center">
+
+  <!-- GitHub Readme Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=vaishaldsouza&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=9F7AEA&text_color=C8D8E4&icon_color=9F7AEA" alt="GitHub Stats"/>
+  
+  <!-- GitHub Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=vaishaldsouza&theme=radical&hide_border=true&background=0D1117&stroke=9F7AEA&ring=9F7AEA&fire=FFB86C&currStreakNum=C8D8E4&currStreakLabel=C8D8E4&sideNums=C8D8E4&sideLabels=C8D8E4&dates=C8D8E4" alt="GitHub Streak"/>
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishaldsouza&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=9F7AEA&text_color=C8D8E4" alt="Top Languages"/>
+
+</div>
 
 ---
+
+<div align="center">
+
+## 🏆 GitHub Trophies
+
+</div>
+
+<div align="center">
+
+  <img src="https://github-profile-trophy.vercel.app/?username=vaishaldsouza&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📈 Contribution Activity
+
+</div>
+
+<div align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaishaldsouza&theme=react-dark&hide_border=true&bg_color=0D1117&color=9F7AEA&line=9F7AEA&point=FFB86C" alt="Contribution Graph"/>
+
+</div>
+
+---
+
+<div align="center">
+
+  <!-- Contribution Snake -->
+  <img src="https://raw.githubusercontent.com/vaishaldsouza/vaishaldsouza/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+
+</div>
+
+---
+
+<div align="center">
 
 ## 📫 Connect With Me
 
-- 🔗 LinkedIn: www.linkedin.com/in/vaishal-d-souza-12b34a298  
-- 📧 Email: vaishaldsouza@email.com  
+</div>
+
+<div align="center">
+
+  <a href="mailto:vaishaldsouza@email.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://linkedin.com/in/vaishal-d-souza-12b34a298" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/vaishaldsouza" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://github.com/vaishaldsouza" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-9F7AEA?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
+  </a>
+
+</div>
 
 ---
 
-> “Code. Learn. Build. Repeat.” 🚀
-> ![Profile Views](https://komarev.com/ghpvc/?username=vaishaldsouza&color=blue)
+<div align="center">
 
+  <i>"Code. Learn. Build. Repeat."</i>
 
+</div>
+
+<div align="center">
+
+  <!-- Capsule Render Footer Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=&fontSize=0&fontColor=fff&animation=twinkle" alt="footer"/>
+
+</div>
