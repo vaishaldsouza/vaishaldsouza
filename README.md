@@ -8,12 +8,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=9F7AEA&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+AI+Enthusiast;Full+Stack+Developer+%7C+Problem+Solver;Building+Scalable+Solutions" alt="Typing SVG"/>
   </a>
   
-  <!-- Academic Badge -->
-  <img src="https://img.shields.io/badge/B.E._CSE-2023--2027-9F7AEA?style=flat-square&logo=education&logoColor=white" alt="Education"/>
-  
-  <!-- Location Badge -->
-  <img src="https://img.shields.io/badge/Location-Mangaluru%2C+India-6B46C1?style=flat-square&logo=google-maps&logoColor=white" alt="Location"/>
-  
 </div>
 
 ---
@@ -135,7 +129,7 @@ I thrive on transforming complex challenges into elegant solutions through clean
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=vaishaldsouza&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=9F7AEA&text_color=C8D8E4&icon_color=9F7AEA" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vaishaldsouza&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=9F7AEA&text_color=C8D8E4&icon_color=9F7AEA&card_width=500" alt="GitHub Stats"/>
 
 </div>
 
@@ -163,7 +157,7 @@ I thrive on transforming complex challenges into elegant solutions through clean
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishaldsouza&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=9F7AEA&text_color=C8D8E4" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishaldsouza&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=9F7AEA&text_color=C8D8E4&card_width=500" alt="Top Languages"/>
 
 </div>
 
@@ -191,7 +185,7 @@ I thrive on transforming complex challenges into elegant solutions through clean
 
 <div align="center">
 
-  <img src="github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 
 </div>
 
