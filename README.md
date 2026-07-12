@@ -48,16 +48,6 @@
 
 <div align="center">
 
-## Hi, I'm Vaishal Dsouza! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40" style="vertical-align: middle;">
-
-<em>Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" style="vertical-align: middle;"></em>
-
-</div>
-
----
-
-<div align="center">
-
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40" style="vertical-align: middle;"> About Me
 
 </div>
@@ -81,7 +71,7 @@ I thrive on transforming complex challenges into elegant solutions through clean
 
 <div align="center">
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35" style="vertical-align: middle;">
 
 </div>
 
@@ -191,7 +181,7 @@ I thrive on transforming complex challenges into elegant solutions through clean
 
 <div align="center">
 
-## 📫 Connect With Me
+## 📫 Connect With Me <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40" style="vertical-align: middle;">
 
 </div>
 
