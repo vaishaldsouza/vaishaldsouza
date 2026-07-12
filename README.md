@@ -165,6 +165,19 @@ I thrive on transforming complex challenges into elegant solutions through clean
 
 <div align="center">
 
+## 🎧 i really like music
+
+<a href="https://readme.andyruwruw.com/api/now-playing?open" target="_blank">
+  <!-- Music bars move to the beat and are colored based on the track's attributes -->
+  <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/now-playing.svg" alt="Now Playing" width="466"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
 ## 📫 Connect With Me
 
 </div>
