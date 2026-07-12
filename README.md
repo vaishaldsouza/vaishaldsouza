@@ -30,6 +30,9 @@
   <a href="https://github.com/vaishaldsouza" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  <a href="https://www.buymeacoffee.com/vaishaldsouza" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
+  </a>
   
 </div>
 
@@ -170,7 +173,7 @@ I thrive on transforming complex challenges into elegant solutions through clean
 
 ## 🎧 i really like music
 
-<a href="https://readme.andyruwruw.com/api/now-playing?open" target="_blank">
+<a href="https://open.spotify.com" target="_blank">
   <!-- Music bars move to the beat and are colored based on the track's attributes -->
   <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/now-playing.svg" alt="Now Playing" width="466"/>
 </a>
@@ -198,6 +201,9 @@ I thrive on transforming complex challenges into elegant solutions through clean
   </a>
   <a href="https://github.com/vaishaldsouza" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-9F7AEA?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.buymeacoffee.com/vaishaldsouza" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
   </a>
 
 </div>
