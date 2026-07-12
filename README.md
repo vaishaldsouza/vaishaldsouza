@@ -48,7 +48,17 @@
 
 <div align="center">
 
-## 👨‍💻 About Me
+## Hi, I'm Vaishal Dsouza! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40" style="vertical-align: middle;">
+
+<em>Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" style="vertical-align: middle;"></em>
+
+</div>
+
+---
+
+<div align="center">
+
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40" style="vertical-align: middle;"> About Me
 
 </div>
 
