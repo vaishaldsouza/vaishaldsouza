@@ -8,6 +8,9 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=9F7AEA&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+AI+Enthusiast;Full+Stack+Developer+%7C+Problem+Solver;Building+Scalable+Solutions" alt="Typing SVG"/>
   </a>
   
+  <br/><br/>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="70%" alt="Aesthetic Loop"/>
+  
 </div>
 
 ---
