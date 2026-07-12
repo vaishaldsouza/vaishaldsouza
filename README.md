@@ -163,11 +163,7 @@ I thrive on transforming complex challenges into elegant solutions through clean
 
 <div align="center">
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg"/>
-    <img src="github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-  </picture>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 
 </div>
 
