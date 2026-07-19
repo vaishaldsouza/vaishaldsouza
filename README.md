@@ -171,6 +171,18 @@ I thrive on transforming complex challenges into elegant solutions through clean
 
 <div align="center">
 
+## 🏙️ 3D Contribution City
+
+<a href="https://www.githubcity.com/u/vaishaldsouza" target="_blank">
+  <img src="profile-3d-contrib/profile-night-view.svg" alt="3D GitHub City" width="100%" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
 ## 🎧 i really like music
 
 <a href="https://open.spotify.com" target="_blank">
