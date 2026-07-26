@@ -18,7 +18,7 @@
 <div align="center">
 
   <!-- Social Buttons -->
-  <a href="https://github.com/vaishaldsouza" target="_blank">
+  <a href="https://portfolio-chi-hazel-65.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-View-9F7AEA?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://linkedin.com/in/vaishal-d-souza-12b34a298" target="_blank">
@@ -55,7 +55,7 @@
 
 </div>
 
-Third-year Computer Science Engineering student with a strong foundation in software engineering, algorithms, and systems. Passionate about building scalable full-stack applications and exploring the intersection of AI/ML with real-world problem-solving. 
+Final year Computer Science Engineering student with a strong foundation in software engineering, algorithms, and systems. Passionate about building scalable full-stack applications and exploring the intersection of AI/ML with real-world problem-solving. 
 
 I thrive on transforming complex challenges into elegant solutions through clean code and architectural thinking. Currently focused on backend development, cloud computing, and applied AI to create impactful technology at scale.
 
@@ -112,16 +112,16 @@ I thrive on transforming complex challenges into elegant solutions through clean
 
 </div>
 
-<a href="https://leetcode.com/vaishaldsouza" target="_blank">
+<a href="https://leetcode.com/u/Vaishaldsouza/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
 </a>
-<a href="https://geeksforgeeks.org/vaishaldsouza" target="_blank">
+<a href="https://www.geeksforgeeks.org/profile/vaishal8wks" target="_blank">
   <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
 </a>
 <a href="https://hackerrank.com/vaishaldsouza" target="_blank">
   <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
 </a>
-<a href="https://codechef.com/vaishaldsouza" target="_blank">
+<a href="https://www.codechef.com/users/for_parrots_29" target="_blank">
   <img src="https://img.shields.io/badge/CodeChef-5B4636?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
 </a>
 
